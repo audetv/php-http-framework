@@ -1,0 +1,9 @@
+{
+    "name": "audetv/php-http-framework",
+    "description": "Demo PHP HTTP Framework code",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "license": "BDS-3-Clause"
+}
